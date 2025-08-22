@@ -3,7 +3,7 @@
     border-radius: 2rem;
     margin: 60px;
     padding: 25px;
-    height: 10rem;
+    height: 15rem;
     background-color: rgb(57, 201, 206);
 }
    
@@ -19,3 +19,22 @@
     text-align: justify;
 
 }
+
+#div2{
+    border: 10px solid black;
+}
+
+#lo69{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: right;
+    border: 5px dotted blue;
+    margin: 9px;
+    border-radius: 15px;
+
+}
+
+.b1{
+    font-size:xx-large;
+    font-weight: bolder;
+}
+
