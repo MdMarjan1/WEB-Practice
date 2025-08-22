@@ -1,12 +1,14 @@
 .div1{
     border: 5px solid blue;
+    border-radius: 2rem;
     margin: 60px;
     padding: 25px;
     height: 10rem;
+    background-color: rgb(57, 201, 206);
    
 
 .paragraph1{
-    color: rgb(117, 12, 216);
+    color: rgb(236, 231, 240);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     background-color: rgb(102, 148, 56);
@@ -16,3 +18,4 @@
     text-align: justify;
 
 }
+
