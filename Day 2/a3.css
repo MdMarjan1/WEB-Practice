@@ -1,8 +1,18 @@
-h1{
-    background-color: brown;
+.div1{
+    border: 5px solid blue;
+    margin: 60px;
+    padding: 25px;
+    height: 10rem;
+    width: 50%;
+
+.paragraph1{
+    color: rgb(117, 12, 216);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
+    background-color: rgb(102, 148, 56);
 }
-h2{
-    background-color: chocolate;
+.pass1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: justify;
+
 }
