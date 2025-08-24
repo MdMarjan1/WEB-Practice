@@ -22,6 +22,34 @@
      margin: 1.5rem;
 }
 
-#dotted{
+#dotteds{
     border: 8px dashed rgb(6, 6, 10);
 }
+
+ol{
+    border: 5px solid red;
+    
+}
+
+ol > li{
+    display: inline-block;
+}
+
+.a4{
+    text-decoration:underline;
+    color: brown;
+}
+.a3{
+    text-decoration: line-through;
+    color: blue;
+}
+
+.vanish1{
+    /* display: none; */
+    /* visibility: hidden; */
+    border: 5px solid rgb(192, 25, 53);
+    box-shadow: 10px 25px 40px;
+}
+
+
+
