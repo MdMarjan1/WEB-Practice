@@ -1,0 +1,23 @@
+.dl1{
+    background-color: chocolate;
+    border: 5px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 2rem;
+    margin-bottom: 3rem;
+}
+
+.dl1 > h1{
+    text-align: center;
+    background-color: brown;
+    margin: 1.5rem;
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+
+.dl1 > p{
+    text-align: justify;
+    padding: 1.5rem;
+    color: rgb(15, 31, 31);
+    background-color: darkgray;
+     margin: 1.5rem;
+}
