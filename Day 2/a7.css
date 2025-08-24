@@ -1,3 +1,11 @@
-.head1{
-    background-image: url();
+.header{
+    height: 800px;
+    background-image: url(./photo/grandmother.jpg);
+    /* background-repeat: no-repeat; */
+   /* background-repeat:repeat-x; */
+   /* background-repeat: repeat-y; */
+   /* background-size: cover; */
+   /* background-size: contain; */
+   background-size: 250px;
+   /* background-image: url(../photo/beautiful-anime-sakura-cityscape-cartoon-scene.jpg); */
 }
