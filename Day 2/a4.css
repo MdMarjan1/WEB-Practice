@@ -29,6 +29,6 @@ p{
     text-align: center;
 }
 
-#col1{
+#col1, #col2{
     background-color: crimson;
 }
