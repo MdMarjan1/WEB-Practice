@@ -21,3 +21,7 @@
     background-color: darkgray;
      margin: 1.5rem;
 }
+
+#dotted{
+    border: 8px dashed rgb(6, 6, 10);
+}
