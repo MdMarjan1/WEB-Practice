@@ -6,3 +6,29 @@
     list-style: none;
     text-decoration: none;
 }
+h3{
+    font-size: xx-large;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+p{
+    color: rgb(168, 168, 212);
+    font-weight: 700;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aquamarine;
+}
+
+/* #l4{
+    background-color: chocolate;
+    text-align: center;
+} */
+
+.l4{
+    
+    text-align: center;
+}
+
+#col1{
+    background-color: crimson;
+}
