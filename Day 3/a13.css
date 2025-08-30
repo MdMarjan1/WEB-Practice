@@ -1,11 +1,8 @@
-table{
+ table{
     border-collapse: collapse;
-}
+    text-align: center;
+ }
 
- td, th{
+td, th{
     border: 2px solid black;
-   padding: 5px 10px;
-}
-td{
-    
 }
