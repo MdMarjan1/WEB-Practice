@@ -5,3 +5,21 @@
     list-style: none;
     text-decoration: none;
 }
+header > nav{
+    margin-left: 40%;
+}
+
+nav > ul{
+    display: flex;
+    
+}
+
+nav > ul > li {
+    margin-right: 2rem;
+    font-size: 20px;
+    margin-top: 1rem;
+}
+nav li :hover{
+    background-color: rgb(158, 67, 243);
+}
+
