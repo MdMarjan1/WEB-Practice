@@ -23,6 +23,9 @@ nav ul li  .dropdown{
     padding-left: 12px;
 }
 
-nav > ul > li:hover .dropdown{
+nav  ul  li:hover > .dropdown{
     display: block;
 }
+
+
+
