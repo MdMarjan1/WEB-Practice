@@ -18,3 +18,7 @@ fieldset{
 fieldset > label{
     display: block;
 }
+
+form > .select-level{
+    display: inline;
+}
