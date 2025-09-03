@@ -5,3 +5,18 @@
     list-style: none;
     text-decoration: none;
 }
+
+.parents{
+    background-color: rgb(170, 133, 204);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 20px;
+
+}
+.child{
+background-color: aqua;
+border: 1px solid red;
+font-size: 20px;
+padding: 10px;
+}
