@@ -9,10 +9,13 @@
 .parents{
     background-color: rgb(170, 133, 204);
     display: flex;
-    /* flex-wrap: wrap; */
+    flex-wrap: wrap;
     gap: 30px;
     padding: 20px;
     justify-content:space-around;
+    height: 250px;
+    align-items: center;
+    flex-direction: column;
 
 }
 .child{
