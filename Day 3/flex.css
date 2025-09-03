@@ -7,7 +7,7 @@
 }
 
 .parents{
-    background-color: rgb(170, 133, 204);
+    background-color: rgb(168, 147, 189);
     display: flex;
     flex-wrap: wrap;
     gap: 30px;
@@ -15,7 +15,7 @@
     justify-content:space-around;
     height: 250px;
     align-items: center;
-    flex-direction: column;
+    /* flex-direction: column; */
 
 }
 .child{
