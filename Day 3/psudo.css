@@ -11,3 +11,17 @@ input:focus{
     border: 2px dotted red;
 
 }
+a:visited{
+    color: rgb(42, 165, 56);
+}
+
+/* li:last-child{
+    color: chocolate;
+}
+li:first-child{
+    color: red;
+} */
+
+li:nth-child(2n){
+    color: red;
+}
