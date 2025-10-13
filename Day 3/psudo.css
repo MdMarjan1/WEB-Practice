@@ -3,3 +3,11 @@ h2:hover{
     color: blue;
   
 }
+
+input:focus{
+    color: red;
+    outline: 0;
+    /* padding-left: 15px; */
+    border: 2px dotted red;
+
+}
