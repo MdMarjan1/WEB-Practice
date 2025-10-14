@@ -19,6 +19,29 @@
 
 }
 
-.water{
-    z-index: ;
+h3::after{
+    font-size: 50px;
+    content: '.pdf';
+    background-color: yellowgreen;
+}
+h3::before{
+    content: 'Start';
+    font-size: 30px;
+    color: brown;
+
+}
+
+p::first-letter{
+    font-size: 45px;
+}
+p::first-line{
+    background-color: blueviolet;
+}
+
+/* p::selection{
+    background-color: chocolate;
+} */
+
+::selection{
+    background-color: chocolate;
 }
