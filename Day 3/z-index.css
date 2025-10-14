@@ -1,0 +1,21 @@
+
+.box{
+    position: relative;
+}
+
+.boy{
+    top: 140px;
+    z-index: 2;
+
+
+}
+
+
+.ring{
+    z-index: 1;
+    top: 80px;
+    /* z-index: 2; */
+
+
+
+}
