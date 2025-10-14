@@ -2,3 +2,18 @@
     border: 2px dotted green;
     width: 200px;
 }
+
+.swim-container{
+    position: relative;
+}
+
+.ring{
+    position: absolute;
+    /* bottom: 15px;
+*/
+} 
+
+/* .boy{
+  position: absolute;
+} */
+
