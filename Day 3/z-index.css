@@ -38,10 +38,12 @@ p::first-line{
     background-color: blueviolet;
 }
 
-/* p::selection{
+p::selection{
     background-color: chocolate;
-} */
+    grid-template-columns: repeat(2, 100px);
+}
 
 ::selection{
     background-color: chocolate;
 }
+
