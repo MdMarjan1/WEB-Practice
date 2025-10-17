@@ -40,7 +40,7 @@ p::first-line{
 
 p::selection{
     background-color: chocolate;
-    grid-template-columns: repeat(2, 100px);
+    grid-template-columns: repeat(2, 100px) 200px 100px;
 }
 
 ::selection{
