@@ -46,6 +46,10 @@ p::selection{
     grid-template-columns: 200px auto 200px;
     justify-content: space-around;
 
+    
+
+
+
 }
 
 ::selection{
